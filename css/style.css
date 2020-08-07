@@ -41,3 +41,10 @@
 .fa-github{
 	color: #273c75;
 }
+
+
+.small {
+	text-decoration: none;
+	text-align: left;
+	margin-left: 150px;
+}
